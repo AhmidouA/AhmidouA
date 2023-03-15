@@ -43,6 +43,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/A/A/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif"  />
+</div>
 
 ###
