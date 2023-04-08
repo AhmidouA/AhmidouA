@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">I am a passionate backend developer, seeking stimulating challenges and creative solutions📚🎯<br>My empathetic approach and thirst for learning drive me to constantly push my limits 💪 <br> I am eager to put my enthusiasm to work for you and take on any challenges that come my way.<br>🎲 Fun fact: ... Koalas 🐨 have fingerprints that are very similar to humans. (true)</h4>
+<h4 align="left">I am a passionate web developer, seeking stimulating challenges and creative solutions📚🎯<br>My empathetic approach and thirst for learning drive me to constantly push my limits 💪 <br> I am eager to put my enthusiasm to work for you and take on any challenges that come my way.<br>🎲 Fun fact: ... Koalas 🐨 have fingerprints that are very similar to humans. (true)</h4>
 
 ###
 
