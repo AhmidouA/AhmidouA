@@ -24,7 +24,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" height="40" width="52" alt="React logo"  />
-   <img src="https://icon-icons.com/fr/icone/redux-dorigine-logo/146365" height="40" width="52" alt="Redux logo"  />
+   <img src="![image](https://github.com/AhmidouA/AhmidouA/assets/113511039/8e6ef691-8660-4154-bfec-bbc0f06434d0)" height="40" width="52" alt="Redux logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="40" width="52" alt="Postman logo"  />
