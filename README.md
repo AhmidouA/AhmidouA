@@ -28,7 +28,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
    <img src="https://camo.githubusercontent.com/a6a70ebe0753fc7ca30e3c25bad080d239f8328e37bd02cf0192497e1f3bdf00/68747470733a2f2f692e6962622e636f2f735650355651662f657870726573736a732e706e67" height="40" width="46" alt="express logo"  /> 
    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="40" width="52" alt="Postman logo"  />
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-jest-3521517-2945020.png?f=avif&w=512" height="40" width="52" alt="Jest logo" /> <br />
+   <img src="https://cdn.iconscout.com/icon/free/png-512/free-jest-3521517-2945020.png?f=avif&w=512" height="40" width="48" alt="Jest logo" /> <br />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  /> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
