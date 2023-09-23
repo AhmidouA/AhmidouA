@@ -3,7 +3,6 @@
 ###
 
 <p align="left">📍 I live in Montpellier (34000)<br>💻 Developper Full-Stack JavaScript </p>
-- 👯 I’m looking to collaborate on [Aromatika Project](https://aromatika-front.vercel.app/)
 
 ###
 
