@@ -1,23 +1,65 @@
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">I am a passionate web developer, seeking stimulating challenges and creative solutions📚🎯</h3>
+<h1 align="center">Hello World 👋  I'am Ahmed</h1>
 
+###
+
+<p align="left">📍 I live in Montpellier (34000)<br>💻 Developper Full-Stack JavaScript </p>
 - 👯 I’m looking to collaborate on [Aromatika Project](https://aromatika-front.vercel.app/)
 
-- 📄 Know about my experiences ["After 8 years as an E-Commerce Project Manager, I decided to embark on a career change as a web developer. Recently graduated from O'Clock School and with a strong background in implementing a development project (Full Stack and Lead Backend for the Aromatika Project)."]("After 8 years as an E-Commerce Project Manager, I decided to embark on a career change as a web developer. Recently graduated from O'Clock School and with a strong background in implementing a development project (Full Stack and Lead Backend for the Aromatika Project).")
+###
 
-- ⚡ Fun fact **🎲 Fun fact: ... Koalas 🐨 have fingerprints that are very similar to humans. (true)**
+<h2 align="left">About me</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akkioui-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akkioui-ahmed" height="30" width="40" /></a>
-<a href="https://discord.gg/5mZUw4dA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5mZUw4dA" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<h4 align="left">I am a passionate web developer, seeking stimulating challenges and creative solutions📚🎯<br>My empathetic approach and thirst for learning drive me to constantly push my limits 💪 <br> I am eager to put my enthusiasm to work for you and take on any challenges that come my way.<br>🎲 Fun fact: ... Koalas 🐨 have fingerprints that are very similar to humans. (true)</h4>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmidouA&show_icons=true&locale=en&layout=compact" alt="AhmidouA" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmidouA&show_icons=true&locale=en" alt="AhmidouA" /></p>
+<h2 align="left"> Stack: </h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmidouA&" alt="AhmidouA" /></p>
+###
+
+<div align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" height="40" width="52" alt="React logo"  />
+   <img src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png" height="40" width="48" alt="Redux logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+   <img src="https://camo.githubusercontent.com/a6a70ebe0753fc7ca30e3c25bad080d239f8328e37bd02cf0192497e1f3bdf00/68747470733a2f2f692e6962622e636f2f735650355651662f657870726573736a732e706e67" height="40" width="46" alt="express logo"  /> 
+   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="40" width="52" alt="Postman logo"  />
+   <img src="https://cdn.iconscout.com/icon/free/png-512/free-jest-3521517-2945020.png?f=avif&w=512" height="40" width="48" alt="Jest logo" /> <br />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="sequelize logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif"  />
+</div>
+
+###
+
+<p align="left">Social network</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/akkioui-ahmed/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/5mZUw4dA" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+
