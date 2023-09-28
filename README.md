@@ -59,6 +59,10 @@
   </a>
 </div>
 
+<div>
+   ![GitHub Activity](https://img.shields.io/github/commit-activity/m/AhmidouA/AhmidouA)
+</div>
+
 ###
 
 
