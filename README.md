@@ -59,9 +59,13 @@
   </a>
 </div>
 
-<div>
-   ![GitHub Activity](https://img.shields.io/github/commit-activity/m/AhmidouA/AhmidouA)
-</div>
+ ### GitHub Stats
+
+![GitHub Activity](https://img.shields.io/github/commit-activity/m/AhmidouA/AhmidouA)
+[![AhmidouA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmidouA&show_icons=true&theme=radical)](https://github.com/AhmidouA)
+![Top Language](https://img.shields.io/github/languages/top/AhmidouA/AhmidouA)
+
+
 
 ###
 
