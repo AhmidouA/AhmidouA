@@ -61,8 +61,8 @@
 
  ### GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmidoua&show_icons=true&locale=en&layout=compact" alt="ahmidoua" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmidouaa&show_icons=true&locale=en&layout=compact" alt="ahmidouaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmidoua&show_icons=true&locale=en" alt="ahmidoua" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmidouaa&show_icons=true&locale=en" alt="ahmidouaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmidoua&" alt="ahmidoua" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmidouaa&" alt="ahmidouaa" /></p>
