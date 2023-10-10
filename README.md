@@ -60,9 +60,6 @@
 </div>
 
  ### GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmidoua&show_icons=true&locale=en&layout=compact" alt="ahmidoua" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmidoua&show_icons=true&locale=en" alt="ahmidoua" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmidoua&" alt="ahmidoua" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=AhmidouA&username=a" height="150" alt="stats graph"  />
+</div>
