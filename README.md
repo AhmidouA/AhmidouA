@@ -57,6 +57,9 @@
   <a href="https://discord.gg/5mZUw4dA" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
+  <a href="[https://discord.gg/5mZUw4dA](https://portfolio-akkioui.netlify.app/)" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="52" height="40" alt="portfolio logo" />
+  </a>
 </div>
 
  ### GitHub Stats
