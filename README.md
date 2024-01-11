@@ -35,7 +35,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo" align="center" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  align="center"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="52" alt="docker logo" align="center" />
-   <img src="https://icons8.com/icon/zJh5Gyrd6ZKu/prisme-orme" height="40" width="40" alt="prisma logo"  align="center"/>
+   <img src="https://icons8.com/icon/zJh5Gyrd6ZKu/prisme-orme" height="40" width="52" alt="prisma logo"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="sequelize logo"  align="center"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  align="center"/>
 </div>
