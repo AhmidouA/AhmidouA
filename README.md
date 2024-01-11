@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋  I'am Ahmed</h1>
+<h1 align="center">Hello World<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'am Ahmed</h1> 
 
 ###
 
