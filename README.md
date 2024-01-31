@@ -35,8 +35,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo" align="center" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="mysql logo" align="center" />
    <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" height="40" width="52" alt="mysql logo" align="center" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="52" alt="docker logo" align="center" />
-   <img src="https://img.icons8.com/color/48/000000/prisma-orm.png" width="40" height="40" alt="prisma-orm" align="center" />  <br />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="52" alt="docker logo" align="center" /> <br />
+   <img src="https://img.icons8.com/color/48/000000/prisma-orm.png" width="40" height="40" alt="prisma-orm" align="center" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  align="center"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="sequelize logo"  align="center"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  align="center"/>
