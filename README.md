@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📍 I live in Montpellier (34000)<br>💻 Developper Full-Stack JavaScript </p>
+<p align="left">📍 I live in Montpellier (34000)<br>💻 Developper Full-Stack  </p>
 
 ###
 
